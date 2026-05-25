@@ -1,5 +1,6 @@
 # MT6826S-SPI
-Arduino SPI library for MagnTek’s magnetic angle encoder MT6826S
+Arduino SPI library for MagnTek’s magnetic angle encoder MT6826S.
+
 Read 15-bit angle via SPI from MT6826S, configure ABZ, UVW, PWM outputs and program EEPROM via SPI.
 ## About MT6826S
 MagnTek’s rotary position sensor MT6826S is an IC based on advanced AMR technology.
