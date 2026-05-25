@@ -1,0 +1,16 @@
+# Classes
+MT6826S_SPI KEYWORD1
+
+#Functions
+begin	KEYWORD2
+readAngle	KEYWORD2
+getRawAngle	KEYWORD2
+getAngle	KEYWORD2
+isWarning	KEYWORD2
+programEEPROM		KEYWORD2
+setZeroPosition	KEYWORD2
+setSpecificZeroPosition	KEYWORD2
+configMT6826S	KEYWORD2
+configABZ	KEYWORD2
+configUVW	KEYWORD2
+configPWM	KEYWORD2
