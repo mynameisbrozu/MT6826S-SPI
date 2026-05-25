@@ -12,3 +12,5 @@ MagnTek’s rotary position sensor MT6826S is an IC based on advanced AMR techno
 - 40~125℃ Operating Temperature Range.
 ## Installation
 Download the library as a .zip file. On arduino IDE go Sketch → Include Library → Add .ZIP Library...
+## License
+MIT License.
