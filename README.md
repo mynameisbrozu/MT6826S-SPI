@@ -12,6 +12,8 @@ MagnTek’s rotary position sensor MT6826S is an IC based on advanced AMR techno
 - Absolute angle position is also provided as a 12-bit PWM output.
 - 40~125℃ Operating Temperature Range.
 ## Installation
-Download the library as a .zip file. On arduino IDE go Sketch → Include Library → Add .ZIP Library...
+Search for "MT6826S SPI" in the Arduino Library Manager and install the library.
+
+Or manually download the library as a .zip file. Then On arduino IDE go Sketch → Include Library → Add .ZIP Library...
 ## License
 MIT License.
